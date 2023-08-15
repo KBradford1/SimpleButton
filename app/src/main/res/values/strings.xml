@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="kayla_intro">Hello World! My name is Kayla.</string>
+    <string name="button_text">Button</string>
+</resources>
